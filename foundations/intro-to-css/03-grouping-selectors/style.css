@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.inverted,
+.fancy{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inverted{
+    background-color: black;
+    color: white;
+}
+.fancy{
+    background-color:yellow ;
+    color: black;
+}
